@@ -1,0 +1,1 @@
+This project is a Python-based tool that scrapes data from YouTube using the YouTube Data API. It retrieves information about videos, including titles, descriptions, view counts, and other relevant metadata. The scraped data can be used for various analytical purposes such as content analysis, trend monitoring, or keyword research.
